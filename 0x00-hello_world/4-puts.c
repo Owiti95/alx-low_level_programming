@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Entry pont
+ * main - A program that prins a line with puts function
  *
- * Return: Always 0 (success)
+ * Return: Always 0
  */
 int main(void)
 {
