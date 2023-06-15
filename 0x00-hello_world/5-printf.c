@@ -5,7 +5,7 @@
  */
 int main(void)
 	/**
-	 *  the main function acts as the entry point
+	 *  main - the main funcction acts as the entry point
 	 *  Return 0 (success)
 	 */
 {
