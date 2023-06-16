@@ -1,1 +1,1 @@
-a readme file for a program that will assign a random number to the variable n each time it is executed
+readme file for  Positive anything is better than negative nothing
