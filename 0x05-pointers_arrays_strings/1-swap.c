@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * swap_int -swaps the values of two intergers
- * @a: interger to swap
- * @b interger to swap
+ * @a: Pointer to the first interger.
+ * @b: Pointer to the second interger.
  */
 void swap_int(int *a, int *b)
 {
